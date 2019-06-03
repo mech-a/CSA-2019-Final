@@ -1,0 +1,18 @@
+//    06-02-2019 17:34:13DESKTOP-QN9UGO5
+{
+  "methods": [
+    {
+      "className": "ExampleRobot",
+      "functionName": "translate",
+      "functionParams": [
+        "BACK",
+        800,
+        0.3
+      ]
+    },
+    {
+      "className": "ExampleRobot",
+      "functionName": "getGoldPosition"
+    }
+  ]
+}
