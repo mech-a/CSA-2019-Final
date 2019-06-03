@@ -5,7 +5,7 @@ package Invoked;
  */
 
 
-public class ExampleRobot {
+public class ExampleRobot extends Robot {
 
     //Constructor must be public so that it can be in a different package from the Interpreter
     public ExampleRobot() {
